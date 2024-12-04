@@ -103,7 +103,7 @@ Use the search bar to search for profiles contained in the Field mapping profile
 The Field mapping profiles list contains the following columns:
 
 -   **Name.** Name of the job profile.
--   **FOLIO record type.** The types of records included in the export: Source record storage (entire record), Authority, Instance, Holdings, and/or Item.
+-   **FOLIO record type.** The types of records included in the export: Source record storage (entire record), Instance, Holdings, and/or Item.
 -   **Format.** Format of the exported record.
 -   **Updated.** Date the field mapping profile was last updated.
 -   **Updated by.** User or system who last updated the field mapping profile.
