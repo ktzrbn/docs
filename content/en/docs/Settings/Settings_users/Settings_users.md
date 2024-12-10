@@ -1,8 +1,13 @@
 ---
 title: "Settings > Users"
 linkTitle: "Users"
+<<<<<<< HEAD
 date: 2025-05-08 
 weight: 250
+=======
+date: 2024-12-10 
+weight: 220
+>>>>>>> bb90404 (Update Settings_users.md)
 tags: ["subtopic"]
 ---
 
@@ -246,7 +251,11 @@ When manually creating a fee/fine, **Fee/fine Type** is a required field.
 7.  Optional: Select an **Action Notice**.
 8.  Click **Save**. The Fee/fine type is saved.
 
+<<<<<<< HEAD
 See [Settings \> Circulation \> Patron notice templates](../../settings_circulation/settings_circulation/#patron-notice-templates) for more information about **Patron notice templates**.
+=======
+See [Settings \> Circulation \> Patron notice templates](/settings/settings_circulation/settings_circulation/#patron-notice-templates) for more information about **Patron notice templates**.
+>>>>>>> bb90404 (Update Settings_users.md)
 
 
 ### Edit a fee/fine type
@@ -375,14 +384,14 @@ The **Transfer Criteria** section contains many sections to allow for a wide var
 
 ### Create transfer criteria
 
-In the **Transfer criteria** pane, select the **Schedule period**.
-Add a number to the **Fee/Fines older than (days)** field.
-Click the **+** sign to add patron group(s) in the **Patron groups** list.
-Select the transfer owner from the **Transfer owner** drop-down list.
-Select a transfer account from the **Transfer account** drop-down list.
-Select the **Fee/fine owner**.
-Add **Transfer type**, **Transfer description**, and **Transfer code** to each **Fee/fine type**.
-Click **Save** to save the transfer criteria or click **Run manually** to run a report.
+1. In the **Transfer criteria** pane, select the **Schedule period**.
+2. Add a number to the **Fee/Fines older than (days)** field.
+3. Click the **+** sign to add patron group(s) in the **Patron groups** list.
+4. Select the transfer owner from the **Transfer owner** drop-down list.
+5. Select a transfer account from the **Transfer account** drop-down list.
+6. Select the **Fee/fine owner**.
+7. Add **Transfer type**, **Transfer description**, and **Transfer code** to each **Fee/fine type**.
+8. Click **Save** to save the transfer criteria or click **Run manually** to run a report.
 
 ### Scheduling
 
