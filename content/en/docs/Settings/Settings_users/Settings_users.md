@@ -252,10 +252,14 @@ When manually creating a fee/fine, **Fee/fine Type** is a required field.
 8.  Click **Save**. The Fee/fine type is saved.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 See [Settings \> Circulation \> Patron notice templates](../../settings_circulation/settings_circulation/#patron-notice-templates) for more information about **Patron notice templates**.
 =======
 See [Settings \> Circulation \> Patron notice templates](/settings/settings_circulation/settings_circulation/#patron-notice-templates) for more information about **Patron notice templates**.
 >>>>>>> bb90404 (Update Settings_users.md)
+=======
+See [Settings \> Circulation \> Patron notice templates](../settings_circulation/settings_circulation/#patron-notice-templates) for more information about **Patron notice templates**.
+>>>>>>> 218f127 (Fix link to patron-notice-templates)
 
 
 ### Edit a fee/fine type
