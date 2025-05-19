@@ -27,6 +27,12 @@ tags: ["parenttopic"]
    </td>
   </tr>
   <tr>
+  <td>Action
+  </td> 
+  <td>A verb describing an operation that manipulates a resource, e.g. Create, edit, view, delete, execute, etc. 
+  </td>
+  </tr> 
+  <tr>
    <td>Allocated fund
    </td>
    <td>A fund that has been assigned a monetary value for the fiscal year and therefore has money to spend.
